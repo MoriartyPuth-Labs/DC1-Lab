@@ -1,4 +1,4 @@
-# 🛡️ VulnHub DC-1 — CTF Writeup
+# 🛡️ VulnHub DC-1 Lab
 
 > **Platform:** VulnHub | **Difficulty:** Beginner | **Flags:** 5 | **Goal:** Root the machine
 
@@ -22,7 +22,7 @@ This writeup walks through each step in detail, including two methods for each m
 - 🔗 **Machine Page:** https://www.vulnhub.com/entry/dc-1-1,292/
 - 📦 **Download:** https://download.vulnhub.com/dc/DC-1.zip
 - 👤 **Machine Author:** DCAU
-- 📅 **Writeup Date:** April 2020
+- 📅 **Writeup Date:** April 2026
 
 ---
 
